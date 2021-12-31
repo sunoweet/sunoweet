@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunoweet
 - 👀 I’m interested in economics, sociology, philosophy and tech (so generic)
-- 🌱 I’m currently learning how to model time series with AI Learning
+- 🌱 Microsoft Certified Azure AZ-900 and IA-900  
 - 💞️ I’m looking to collaborate on some rando stuff
 - 📫 How to reach me ... just send me an email and i'll write you back
 
